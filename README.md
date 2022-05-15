@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @DenizOzaydin. I'm studying at Middle East Technical University. My department is Computer Engineering.
+- Bronze medalist in Turkey National Olympics in Informatics in 2020.
 - 👀 I’m interested in competitive programming, artifical intelligence, regression models, back-end development, Unity game development, chess and chess engines, classical music, and so on.
 - 🌱 I’m currently learning Unity, and back-end development with ASP.NET Core.
 - 📫 You can reach me with my email address "deniz.ozaydin@hotmail.com".
